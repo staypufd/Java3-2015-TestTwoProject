@@ -19,6 +19,8 @@ public class App {
 		System.out.println("Hello again.");
 		
 		System.out.println("Goodbye cruel world!");
+		
+		System.out.println("Happy New Year!");
 
 	}
 
