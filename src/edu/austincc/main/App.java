@@ -23,6 +23,8 @@ public class App {
 		System.out.println("Happy New Year!");
 		
 		System.out.println("This should show on branch Feature1");
+		
+		System.out.println("Wow");
 
 	}
 
